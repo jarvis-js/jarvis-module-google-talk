@@ -1,0 +1,18 @@
+{
+  "author": "Paul Dixon <paul.dixon@mintbridge.co.uk>",
+  "name": "jarvis-module-google-talk",
+  "description": "Jarvis Google Talk adapter",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dobot/jarvis-module-google-talk.git"
+  },
+  "keywords": ["bot"],
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "dependencies": {
+    "node-xmpp": ">=0.3.0"
+  },
+  "devDependencies": {}
+}
